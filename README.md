@@ -1,4 +1,4 @@
-# ML-project
+# Cancer image segmentation and classification (ML-project)
 This project deals with cancer image segmentation and classification
 
 Problem Statement
